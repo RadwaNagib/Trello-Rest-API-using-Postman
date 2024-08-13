@@ -1,0 +1,45 @@
+{
+	"id": "d01d32ca-6b83-4d30-bfea-bef9a9d654e5",
+	"name": "Trello Environment",
+	"values": [
+		{
+			"key": "Key",
+			"value": "01dfeb90d4f0c6cfec1578129805caf5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "ATTA44e1b2d281379166376f3b67ba8c966d6f2955da485f8c9f9627ce1014fa75ff48C30D1D",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Organization id",
+			"value": "63e0de031e1002b486189393",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Member id",
+			"value": "6285b7adcefe0f671762ede5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "board id",
+			"value": "63e0f14680cb77b7e5052f74",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "list id",
+			"value": "63e6a72d542143f562f42947",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-02-13T17:06:19.425Z",
+	"_postman_exported_using": "Postman/10.9.4"
+}
